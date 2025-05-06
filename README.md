@@ -1,6 +1,8 @@
-# NLP_project
+# NATURAL LANGUAGE PROCESSING CS6320- PROJECT 
+
 
 ![image](https://github.com/user-attachments/assets/95a831fc-37a4-40a6-b3d0-7bec0a0360e5)
+### This is the demo of how the project should look.
 
 # 📷 Image Caption Generator
 
